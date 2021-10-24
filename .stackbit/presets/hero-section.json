@@ -1,0 +1,32 @@
+{
+    "model": "HeroSection",
+    "presets": [{
+            "label": "Image right",
+            "thumbnail": "images/hero-right.png",
+            "data": {
+                "featurePosition": "right"
+            }
+        },
+        {
+            "label": "Image left",
+            "thumbnail": "images/hero-left.png",
+            "data": {
+                "featurePosition": "left"
+            }
+        },
+        {
+            "label": "Image top",
+            "thumbnail": "images/hero-top.png",
+            "data": {
+                "featurePosition": "top"
+            }
+        },
+        {
+            "label": "Image bottom",
+            "thumbnail": "images/hero-bottom.png",
+            "data": {
+                "featurePosition": "bottom"
+            }
+        }
+    ]
+}
